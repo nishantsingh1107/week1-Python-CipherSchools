@@ -1,4 +1,4 @@
-name = "Kulwant"
+name = "nishant"
 age = 19
 print("Hello " + name + " your age is " + str(age))  #ugly syntax
 
