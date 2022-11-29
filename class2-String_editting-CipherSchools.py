@@ -31,4 +31,4 @@ print("Kulwant" [1:4])
 # Syntax - [start argument : stop argument - 1 : step ]
 print(lang[0:5:1])
 print(lang[::2])
-print("Kulwant"[5::-1])
+print(nishant"[5::-1])
