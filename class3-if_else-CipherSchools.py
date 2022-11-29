@@ -14,7 +14,7 @@ else:
     
 #                                       In keyword :
 
-name = "Shivam"
+name = "Nishant"
 if "a" in name:
     print("Yes, a is present in",name)
 else:
