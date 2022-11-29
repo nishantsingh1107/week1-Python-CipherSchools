@@ -1,4 +1,4 @@
-name = "    Kul    want   "
+name = "    Nis    hant   "
 dots = "............."
 
 # lstrip() method-  Return by removing all left side space given b/f word used in string.
