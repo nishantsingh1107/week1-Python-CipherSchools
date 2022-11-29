@@ -13,9 +13,9 @@ is_pos2 = string.find("is", is_pos1 + 1)
 print(is_pos2)
 
 #                          center() method-
-name = "Shivam"
+name = "Nishant"
 
-# output- **Shivam**
+# output- **Nishant**
 print(name.center(14,"*"))
 
 name = input("Enter your name : ")
@@ -34,7 +34,7 @@ print(new_string)
 
 #                Use of assignment operator in string formatting
 
-name = "Kulw"
+name = "Nish"
 # name = name + "am" 
 name += "ant"
 print(name)
