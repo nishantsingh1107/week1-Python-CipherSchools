@@ -1,8 +1,8 @@
 # Strings
 # Collection Of Characters inside single quotes or double quotes.
 
-first_name = "Kulwant"
-last_name = "Olkha"
+first_name = "Nishant"
+last_name = "Singh"
 
 # Concatination of Strings- This reffer to adding to strings
 
