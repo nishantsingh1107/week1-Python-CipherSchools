@@ -1,16 +1,16 @@
 # Ask a user for name
-# Example - Harshit Vashisth
+# Example - Nishant Singh
 # print count of each words
 # output : 
-        # H : 1
-        # a : 2
-        # r : 1
-        # s : 3
-        # h : 3
+        # N : 1
         # i : 2
+        # s : 1
+        # h : 3
+        # a : 3
+        # n : 2
         # t : 2
         #   : 1
-        # V : 1
+        # S : 1
 
 
 name = input("Enter your full name : ")
